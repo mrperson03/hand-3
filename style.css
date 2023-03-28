@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: #0a0135;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_symbol_name ,#result_symbol_name2  
+{
+  color: black;
+}
+.symbol_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
